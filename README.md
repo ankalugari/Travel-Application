@@ -496,11 +496,12 @@ The GitHub repository contains:
 
 ## Destinations
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c5b6ced-c580-4898-8892-ed2d5dce61dc" />
 
 
 ## Travel Planner
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28da8475-dcc9-4679-8b2b-ccbce0052ae5" />
+
 
 
 
